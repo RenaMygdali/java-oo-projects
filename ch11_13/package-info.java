@@ -8,4 +8,4 @@
  * @version 1.0
  * @author RenaMigdali
  */
-package gr.aueb.cf.OOProjects.ch11_13.model;
+package gr.aueb.cf.OOProjects.ch11_13;

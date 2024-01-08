@@ -1,4 +1,4 @@
-package gr.aueb.cf.OOProjects.ch11_13.model;
+package gr.aueb.cf.OOProjects.ch11_13;
 
 import gr.aueb.cf.OOProjects.ch11_13.model.User;
 import gr.aueb.cf.OOProjects.ch11_13.model.UserCredentials;

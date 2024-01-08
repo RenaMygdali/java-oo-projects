@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"gr.aueb.cf.OOProjects.model","l":"User"},{"p":"gr.aueb.cf.OOProjects.model","l":"UserCredentials"}]
