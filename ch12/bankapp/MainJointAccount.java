@@ -1,6 +1,6 @@
 package gr.aueb.cf.OOProjects.ch12.bankapp;
 
-import gr.aueb.cf.ch12.Holder;
+import gr.aueb.cf.ch12_PublicAPI.Holder;
 import gr.aueb.cf.OOProjects.ch12.bankapp.model.JointAccount;
 import gr.aueb.cf.OOProjects.ch12.bankapp.model.OverdraftAccount;
 

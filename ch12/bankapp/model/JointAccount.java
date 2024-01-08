@@ -1,7 +1,7 @@
 package gr.aueb.cf.OOProjects.ch12.bankapp.model;
 
 
-import gr.aueb.cf.ch12.Holder;
+import gr.aueb.cf.ch12_PublicAPI.Holder;
 
 /**
  * Immutable class for a joint bank account
