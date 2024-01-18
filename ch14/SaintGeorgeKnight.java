@@ -15,6 +15,7 @@ public class SaintGeorgeKnight {
     public static SaintGeorgeKnight getInstance() {
         return KNIGHT;
     }
+
     public void embarkOnMission() {
         System.out.println("Saint George Knight is embarking on a mission.");
     }
